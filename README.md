@@ -1,4 +1,5 @@
-# Bankruptcy_Prediction
+# Bankruptcy_Prediction![Bankrupt-Prevention](https://github.com/user-attachments/assets/bcdf628a-c795-4b70-89f5-1b5c94f64e6b)
+
 This project models the probability of a business going bankrupt using a Support Vector Classifier approach. It analyzes six key features, Industrial risk, Management risk, Financial flexibility, Credibility, Competitiveness and Operating risk to predict bankruptcy.
 
 Business Objective:
